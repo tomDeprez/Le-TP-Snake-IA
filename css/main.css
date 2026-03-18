@@ -1,0 +1,19 @@
+#game-container {
+    border: 1px solid black;
+    position: relative;
+}
+
+#snake {
+    width: 50px;
+    height: 50px;
+    background-color: green;
+    position: absolute;
+}
+
+.apple {
+    width: 50px;
+    height: 50px;
+    background-color: red;
+    position: absolute;
+    border-radius: 50%;
+}
