@@ -725,5 +725,3 @@ Ce TP vous a appris:
 Vous venez d'utiliser un réseau de neurones simple (Machine Learning). Le Deep Learning utilise des réseaux beaucoup plus profonds (dizaines/centaines de couches), nécessaires pour des tâches complexes comme la reconnaissance d'images ou la traduction. Pour Snake, un réseau simple suffit largement!
 
 Bon courage!
-#   L e - T P - S n a k e - I A  
- 
